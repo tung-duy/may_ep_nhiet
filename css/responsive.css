@@ -1,0 +1,373 @@
+/* MÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â n hÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬nh ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œiÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¡n thoÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡i */
+@media (max-width: 767px){
+    *{}
+
+.khoidvct .col-sm-3 {
+    padding: 0;
+}
+
+.widget.tinganday {
+    margin-bottom: 20px;
+}
+
+.khoifancybox {
+    display: block!important;
+}
+
+.dg-container {
+    display: none;
+}
+
+.sodem span.plus {
+    margin-left: 2px;
+    top: 0px;
+}
+
+.about-page .tenkhoiso {
+    font-size: 11px;
+}
+
+.sodem span.demso {
+    font-size: 20px;
+}
+
+footer h4 {
+    font-size: 13px;
+}
+
+.khoigtabout .container.jumbotron {
+    margin-bottom: 0px;
+}
+
+.khoint .cpc {
+    text-align: center;
+}
+
+.khoint input.apply-coupon {
+    font-size: 12px;
+    width: 100%;
+}
+
+.khoint input.couponcode {
+    margin-bottom: 15px;
+    font-size: 12px;
+}
+
+.about-page .bannerab .nutshopnow {
+    text-align: center!important;
+    /* margin: auto; */
+}
+
+.about-page .bannerab .nutshopnow a {
+    padding: 10px 20px;
+}
+
+.bannerab {
+    padding: 25px 0px;
+}
+
+.tenceo span {
+    font-size: 12px;
+}
+
+.khoigtabout p {
+    font-size: 12px;
+}
+
+.khoigtabout h3 {
+    font-size: 25px;
+}
+
+.khoigtabout h4 {
+    font-size: 16px;
+}
+
+.khoigtabout {
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.anhtqceo {
+    margin-top: 30px;
+}
+
+.tgkm hr {
+    margin: 0;
+}
+
+.nutback {
+    right: 8%;
+}
+
+footer .col-xs-12.col-md-4 {
+    margin-top: 20px;
+}
+
+footer .container {
+    padding-top: 40px;
+}
+
+span.gmail {
+    display: inline-block;
+}
+
+span.baicon {
+    display: inline-block;
+}
+
+.motspkmchuan {
+    margin-top: 15px;
+}
+
+.nvtuvan {
+    margin-top: 30px;
+}
+
+.khoiqc {
+    margin-top: 30px;
+    background: url(../images/bg-2.jpeg) center;
+}
+
+.tdservices {
+    margin-bottom: 10px;
+}
+
+.tdnho {
+    font-size: 16px;
+}
+
+.khoidichvu .tdnho {
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.bannerab h3.tdnho {
+    margin-bottom: 13px;
+    font-size: 13px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.khoidvkm {
+    margin-top: 50px;
+}
+
+div#dichvu {
+    margin-top: 30px;
+}
+
+.ndqc {
+    display: none;
+}
+
+.ndqc {}
+
+.td {
+    margin-top: 20px;
+    font-size: 14px!important;
+}
+
+.slideheadertop .carousel-caption.d-none.d-md-block {
+    display: none;
+}
+
+span.icon-prev {
+    font-size: 25px;
+    margin-top: -11px!important;
+}
+
+i.fa.fa-angle-right {
+    font-size: 25px;
+    margin-top: -2px;
+}
+
+.headertop .iconaction {
+    margin: 0;
+}
+
+.headertop .iconaction a {
+    font-size: 25px;
+}
+
+.headertop a.iconmenuheade {
+    font-size: 31px;
+}
+
+a.oneiconaction.iconsearch, .oneiconaction.iconuser, .oneiconaction.iconwishlist {
+    display: none;
+}
+
+.menutop {padding: 0;}
+    
+.menutop {
+    height: 100%;
+}
+}
+
+/* MÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â n hÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬nh ipad */
+@media (min-width: 768px) and (max-width: 991px){
+    *{}
+
+.khoifancybox {
+    display: block!important;
+}
+
+.dg-container {
+    display: none;
+}
+
+.khoidichvu .services p {
+    font-size: 14px;
+}
+
+.khoidichvu .td1service {
+    font-size: 16px;
+}
+
+.khoidichvu .col-sm-3 {
+    padding: 0;
+}
+
+.khoidichvu .widget ul li a {
+    padding: 10px 5px;
+}
+
+.khoint input.couponcode {
+    font-size: 12px;
+}
+
+.khoint p {
+    font-size: 12px;
+}
+
+.bannerab h3.tdnho {
+    font-size: 20px;
+}
+
+.number {
+    margin-bottom: 30px;
+}
+
+.khoigtabout .container.jumbotron {
+    padding-top: 25px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+}
+
+.khoigtabout h3 {
+    font-size: 24px;
+}
+
+.khoigtabout h4 {font-size: 16px;}
+
+.khoigtabout {
+    margin: 10px 0 0 0;
+}
+
+.khoint input.apply-coupon {
+    width: 60%;
+    font-size: 12px;
+}
+
+.carousel-caption {transform: translateY(61px);padding: 10px 20px!important;}
+
+a.oneiconsocial {
+    margin-left: 0px;
+    margin-top: 10px;
+}
+
+.motnvtv {
+    padding: 10px 15px;
+}
+
+span.gmail {
+    display: inline-block;
+    margin-left: 0!important;
+    text-align: center;
+    width: 100%;
+    font-size: 10px!important;
+}
+
+span.baicon {
+    display: inline-block;
+}
+
+.nutshopnow a {
+    padding: 10px 20px;
+}
+
+.ndqc {
+    top: 19%;
+    left: 15%;
+    width: 70%;
+    padding: 17px;
+}
+
+.menutop {
+    height: 100%;
+}
+}
+
+/* MÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â n hÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬nh destop nho */
+@media (min-width: 992px) and (max-width: 1199px){
+    *{}
+
+.khoifancybox {
+    display: block!important;
+}
+
+.dg-container {
+    display: none;
+}
+
+.khoidichvu .mottinnho span {
+    font-size: 12px;
+}
+
+.sodem span.plus {
+    margin-left: 5px;
+    top: -5px;
+}
+
+.sodem span.demso {
+    font-size: 26px;
+}
+
+.khoigtabout .col-xs-8 {
+    padding: 0;
+}
+
+.khoigtabout h4 {
+    font-size: 18px;
+}
+
+.khoigtabout {
+    margin-top: 0;
+}
+
+.carousel-caption {
+    transform: translateY(51px);
+}
+
+a.oneiconsocial {
+    margin-left: 5px;
+}
+
+span.gmail {
+    display: inline-block;
+    text-align: center!important;
+    margin-left: 0px!important;
+}
+
+.ndqc {
+    top: 19%;
+    width: 60%;
+    left: 23%;
+    padding: 30px;
+}
+}
+
+/* MÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â n hÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬nh full HD */
+@media (max-width: 1200px){
+    *{}
+}

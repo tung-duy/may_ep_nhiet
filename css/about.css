@@ -1,0 +1,600 @@
+*{margin: 0;padding: 0;}
+
+.khoifancybox {
+    display: none!important;
+}
+
+.khoidvct nav .dg-next {
+    background-position: top right;
+    margin-left: 10px;
+}
+
+.khoidvct nav {
+    width: 58px;
+    position: absolute;
+    z-index: 1000;
+    bottom: 40px;
+    left: 50%;
+    margin-left: -29px;
+}
+
+.khoidvct nav span {
+    text-indent: -9000px;
+    float: left;
+    cursor: pointer;
+    width: 24px;
+    height: 25px;
+    opacity: 0.8;
+    background: transparent url(../images/arrows.png) no-repeat top left;
+}
+
+.dg-wrapper {
+    width: 481px;
+    height: 316px;
+    margin: 0 auto;
+    position: relative;
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    -o-transform-style: preserve-3d;
+    -ms-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+    -webkit-perspective: 1000px;
+    -moz-perspective: 1000px;
+    -o-perspective: 1000px;
+    -ms-perspective: 1000px;
+    perspective: 1000px;
+}
+
+.dg-wrapper a {
+    width: 482px;
+    height: 316px;
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: transparent url(../images/browser.png) no-repeat top left;
+    box-shadow: 0px 10px 20px rgba(0,0,0,0.3);
+    overflow: hidden;
+}
+
+.dg-wrapper a img {
+    display: block;
+    padding: 41px 0px 0px 1px;
+}
+
+.dg-container {
+    width: 100%;
+    height: 450px;
+    position: relative;
+}
+
+.ndchitiettin p {
+    color: #7d7d7d;
+}
+
+.tttop span.nguoidang {
+    color: brown!important;
+    font-weight: 500;
+}
+
+.tieudebaidang {
+    font-weight: 500;
+    margin: 10px 0;
+    font-size: 20px;
+}
+
+.tttop {
+    text-transform: capitalize;
+}
+
+.tttop span {
+    color: gray;
+}
+
+.ttbaiviet {
+    padding: 0;
+    margin-top: 20px;
+}
+
+.khoidvct {
+    margin-top: 40px;
+}
+
+.lienhe-page footer {
+    margin-top: 0;
+}
+
+.row.btncontact {
+    margin: auto;
+}
+
+.tdcontact {
+    margin-bottom: 60px;
+}
+
+.tdcontact p {
+    color: #7D7D7D;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    word-spacing: 1px;
+    width: 100%;
+}
+
+.tdcontact h2 {
+    color: #6C7A89;
+    width: 100%;
+}
+
+.btncontact .btn-primary {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 50px;
+    background: #6C7A89;
+    border-color: #6C7A89;
+}
+
+.tenttlh {
+    letter-spacing: 0.5px;
+}
+
+#messagecontact {
+    width: 100%;
+    height: 172px;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-control {
+    margin-bottom: 30px;
+}
+
+.tenttlh p {
+    color: #7D7D7D;
+    line-height: 24px;
+    word-spacing: 1px;
+}
+
+.tenttlh i:before {
+    font-size: 38px;
+}
+
+.tenttlh i {
+    font-size: 22px;
+    color: #D4B068;
+    margin-bottom: 30px;
+}
+
+div#lienhe {
+    background: rgb(210, 215, 211);
+    padding: 50px 0;
+}
+
+.khoitd h2.widget-title {font-size: 20px;text-align: left!important;padding-left: 23px;}
+
+tr.ndtd td a {
+    color: #105caa;
+}
+
+tr.ndtd td a:hover {
+    color: brown;
+}
+
+.khoitd {
+    margin: 100px 0 80px 0;
+}
+
+.khoitd h3.tdnho {text-align: left;}
+
+tr.ndtd td {
+    font-size: 14px;
+    padding: 20px 15px;
+    border-bottom: 1px solid #7d7d7d;
+    vertical-align: middle;
+}
+
+td.luong {
+    text-align: center;
+    width: 18%;
+}
+
+td.soluong {
+    text-align: center;
+}
+
+td.noilamviec {
+    text-align: center;
+}
+
+tr.tdtd {
+    background: gray;
+    color: white;
+}
+
+.tdtd th {
+    text-align: center;
+    font-weight: 500;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    vertical-align: middle!important;
+}
+
+.abntdv img {
+    width: 100%;
+}
+
+.khoidichvu a.mottinnho, .khoidvct a.mottinnho {
+    display: block;
+    padding: 10px 15px;
+    color: #777;
+    font-size: 13px;
+}
+
+.khoidichvu a.mottinnho b, .khoidvct a.mottinnho b {
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    display: block;
+    font-size: 12px;
+    color: #6c7a89;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.khoidichvu a.mottinnho .danhgia, .khoidvct a.mottinnho .danhgia {
+    margin-bottom: 10px;
+}
+
+.khoidichvu a.mottinnho .danhgia i, .khoidct a.mottinnho .danhgia i {
+    font-size: 13px;
+    FONT-WEIGHT: 600;
+    font-style: normal;
+    text-transform: capitalize;
+    color: #f39c12;
+}
+
+.khoidichvu .nutshopnow a {
+    padding: 5px 10px;
+    font-size: 12px;
+}
+
+.khoidichvu .services p {
+    padding: 0 30px;
+    text-align: justify;
+}
+
+.khoidichvu .vienanhdv {
+    background: #f2f2f2 none repeat scroll 0 0;
+    border-radius: 104px;
+    display: inline-block;
+    margin: 0 0 10px;
+    max-width: 100%;
+    padding: 20px;
+    vertical-align: top;
+    border: 1px solid #ddd;
+    transition: all 0.4s;
+}
+
+.khoidichvu .vienanhdv img {
+    border-radius: 50%;
+    -webkit-transition: -webkit-transform .8s ease-in-out;
+    transition: transform .8s ease-in-out;
+}
+
+.khoidichvu .vienanhdv img:hover {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+
+.khoidichvu .tdservices {
+    margin-bottom: 20px;
+}
+
+.khoidichvu .services {
+    margin-top: 40px;
+}
+
+span.page-numbers.current, .page-numbers:hover {
+    border-radius: 50%;
+    background: #222;
+    color: white;
+    transform: translateY(-5px);
+}
+
+.page-numbers {
+    color: #222;
+    font-size: 15px;
+    width: 45px;
+    height: 45px;
+    display: inline-block;
+    line-height: 45px;
+    transition: all 0.2s;
+    border-radius: 50%;
+}
+
+.woocommerce-pagination {
+    margin: 80px 0;
+    width: 100%;
+}
+
+.woocommerce-pagination ul {
+    list-style: none;
+    display: inline;
+}
+
+.woocommerce-pagination ul li {
+    display: inline;
+}
+
+.abntdv a:before {
+    border: 4px solid rgba(255, 248, 248, 0.43);
+    content: "";
+    position: absolute;
+    left: 15px;
+    top: 15px;
+    right: 15px;
+    bottom: 15px;
+    pointer-events: none;
+    z-index: 3;
+    -webkit-transition: all .4s ease-out;
+    -moz-transition: all .4s ease-out;
+    -ms-transition: all .4s ease-out;
+    -o-transition: all .4s ease-out;
+}
+
+.abntdv a:hover:before {
+    left: -4px;
+    right: -4px;
+    top: -4px;
+    bottom: -4px;
+}
+
+.abntdv {
+    position: relative;
+    margin: 20px 0;
+}
+
+.widget ul {
+    list-style: none;
+    margin: 0;
+}
+
+.widget ul li a {
+    font-size: 14px;
+    color: #777;
+    padding: 13px 20px;
+    display: block;
+    border: 1px solid #ededed;
+    text-align: left;
+    line-height: 22px;
+    transition: all 0.3s;
+    position: relative;
+    padding-left: 25px;
+}
+
+.khoitd .widget ul li a {
+    color: #105caa;
+}
+
+.widget ul li a:hover {
+    color: #222;
+    padding-left: 30px;
+}
+
+.khoidichvu .widget ul li a span {
+    float: right;
+}
+
+.khoidichvu h2, .khoidvct h2 {
+    background: #222;
+    color: white;
+    font-size: 14px;
+    padding: 16px 0;
+    text-transform: uppercase;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+
+.khoidichvu .widget {
+    margin-top: 40px;
+}
+
+.khoint input.apply-coupon {
+    width: 40%;
+    text-transform: uppercase;
+    font-weight: 100;
+}
+
+.khoint input.couponcode {
+    width: 100%;
+}
+
+.khoint {
+    margin-bottom: 95px;
+    margin-top: 80px;
+}
+
+.mottvchuan:hover .ndmottv {
+    transform: translateY(0);
+}
+
+.mottvchuan:hover .anhtv {
+    border-bottom: 3px solid #48C7EC;
+}
+
+.about-page .iconsocial.iconmxh {
+    margin-top: 21px;
+}
+
+.about-page .ndmottv p.chucvu {
+    color: white!important;
+}
+
+h4.td.tenmottvc {
+    margin-top: 18px;
+    font-weight: 600;
+    color: white;
+}
+
+.about-page .khoithanhvien {
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.ndmottv {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    background: rgba(19, 29, 51, 0.85);
+    transition: all 0.4s;
+    transform: translateY(200px);
+}
+
+.about-page .anhtv {
+    position: relative;
+    overflow: hidden;
+    border-bottom: 3px solid #354D71;
+    transition: all 0.3s;
+}
+
+.about-page .anhtv img {
+    height: 100%!important;
+    width: auto!important;
+    margin: auto;
+}
+
+.about-page .bannerab .nutshopnow a {
+    background: #eceeef;
+    color: gray;
+}
+
+.about-page .bannerab .nutshopnow a:hover {
+    background: gray;
+    color: white;
+}
+
+.about-page .bannerab .nutshopnow {
+    margin-top: 9px;
+}
+
+.bannerab {
+    background: #34495e;
+    padding: 35px 0;
+    color: white;
+}
+
+.bannerab h3.tdnho {margin-bottom: 0px;margin-top: 11px;}
+
+.number {
+    margin-bottom: 60px;
+}
+
+.khoigtabout .anhceo img {
+    border-radius: 50%;
+}
+
+.khoigtabout h4 {
+    font-family: 'Roboto', sans-serif;
+    color: #7d7d7d;
+    margin-bottom: 20px;
+}
+
+.khoigtabout p {
+    margin-bottom: 20px;
+}
+
+p.hvtceo {
+    margin: 0;
+    color: #636363;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.khoigtabout {
+    margin: 85px 0 70px 0;
+}
+
+.khoigtabout h3 {font-family: 'Open Sans', sans-serif;font-size: 30px;}
+
+.sodem span.plus {
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 10px;
+    position: relative;
+    top: -10px;
+}
+
+.sodem span.demso {
+    font-weight: 700;
+    font-size: 36px;
+    color: #232323;
+    line-height: 48px;
+    position: relative;
+}
+
+.sodem {
+    position: relative;
+    font-size: 36px;
+    line-height: 48px;
+    font-weight: 700;
+    color: #232323;
+    margin-bottom: 0px;
+    font-family: 'Roboto Slab', sans-serif;
+}
+
+.ndkhoiconso {
+    position: relative;
+}
+
+.about-page .khoiconso {
+    position: relative;
+    text-align: center;
+    background: #fff;
+    padding: 30px 0;
+    border-bottom: 2px solid #232323;
+}
+
+.about-page .tenkhoiso {
+    position: relative;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #555;
+    font-family: 'Roboto Slab', sans-serif;
+}
+
+.about-page .ndheaderabout h2 {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+
+.about-page .breadcrumb, .about-page .breadcrumb
+ a {
+    color: white;
+    background: none;
+}
+
+.about-page .ndheaderabout {
+    display: table-cell;
+    vertical-align: middle;
+    position: relative;
+    z-index: 2;
+    text-transform: uppercase;
+}
+
+.about-page .ndtrangabout:after {content: '';position: absolute;width: 100%;height: 100%;background: rgba(0, 0, 0, 0.35);top: 0;left: 0;z-index: 1;display: block;}
+
+.about-page .ndtrangabout {
+    background: url(../images/13.jpeg) center 77%;
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    display: table;
+    position: relative;
+}
